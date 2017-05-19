@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BasicGame1
+namespace BaSiCgAmE
 {
     class Point
     {

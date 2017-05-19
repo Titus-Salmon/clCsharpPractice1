@@ -1,4 +1,4 @@
-﻿namespace BasicGame1
+﻿namespace BaSiCgAmE
 {
     class Path
     {
